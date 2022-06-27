@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: MRT
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Jun-22 00:00:00
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Administrator2@pega.com
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: MRT_010101_20220622T210255_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2022-Jun-23 00:02:57
+Pega-Codeset-Name: Customer
+Instance-Count: 661
+
+Name: FileMetadata
+
