@@ -19,3 +19,4 @@ An application that allows you to access the news on the pega interface by looki
 <h3> API Note </h3>
 <p>After importing the application, before using it, you must go to the <a href="https://newsapi.org/">NEWS API</a> and register, get your own API key and enter it in the query string field in the rest connector.</p>
 
+![api key](https://user-images.githubusercontent.com/58748375/176008125-06c4d84a-bee6-4920-a32c-b4382165cc21.png)
